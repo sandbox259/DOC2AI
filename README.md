@@ -17,16 +17,17 @@ It generates insightful responses, visualizations, and more.
    ```bash
    git clone https://github.com/sandbox259/DOCAI.git
 2. Navigate to project directory:
-   ```bash
-   cd DOCAI
-3. Install the necessary dependencies:
-  ```bash
-  pip install -r requirements.txt
+   `cd DOCAI`
+3. Install requirements:
 
-4. Set up environment variables:
-  create a .env file and store your cohere api key
-5.Run Streamlit app:
- ```bash
- streamlit run app.py
+`pip install -r requirements.txt`
+
+4.Create a .env file and add your cohere api key to it. 
+
+5. Run the streamlit app
+`streamlit run app.py`
+   
+   
+
 
 
