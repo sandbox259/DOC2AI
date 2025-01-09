@@ -20,10 +20,13 @@ It generates insightful responses, visualizations, and more.
    ```bash
    cd DOCAI
 3. Install the necessary dependencies
-  ```bash pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
+
 4. Set up environment variables
-   create a .env file and store your cohere api key
+  create a .env file and store your cohere api key
 5.Run Streamlit app
- ```bash  streamlit run app.py
+ ```bash
+ streamlit run app.py
 
 
