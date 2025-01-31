@@ -27,7 +27,7 @@ It generates insightful responses, visualizations, and more.
 5. Run the streamlit app
 `streamlit run app.py`
 
-# note:
+# Note:
 the api is a trial, hence there me may be a limit on the rate/usage.
 
 [Live Link:] (https://doc2ai.streamlit.app/)
